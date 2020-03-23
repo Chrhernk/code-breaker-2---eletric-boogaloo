@@ -25,7 +25,7 @@ int main()
         // Hold the recruit's name in a var, and address them by it throughout the simulation.
         cout << "\n\nWelcome " << name << " to the code breaker program\n\n";
         // Display an overview of what Keywords II is to the recruit 
-        OverView();
+        OverView(); 
 
         bool exit = false;
         int play = 0;
